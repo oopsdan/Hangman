@@ -25,6 +25,10 @@ The `Hangman` class also includes a switch statement that prints a stick figure 
 - Add a way to read words from a file or database, so the first player doesn't have to enter a word manually.
 - Add a way to display the number of guesses remaining or the letters that have already been guessed.
 
+## Contributing
+
+This program was created as a learning exercise and is not intended for production use. However, if you would like to contribute to the project, feel free to submit a pull request.
+
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
